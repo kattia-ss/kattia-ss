@@ -17,7 +17,8 @@
 
 <br>
 <!-- <img width="1332" height="749" alt="image" src="https://github.com/user-attachments/assets/9590e96c-e47b-4bc9-92d1-d185804f7439" /> -->
-<img width="1920" height="480" alt="image" src="https://github.com/user-attachments/assets/a751ff56-8c6a-4583-a813-c4648b814ecd" />
+<img width="1920" height="390" alt="image" src="https://github.com/user-attachments/assets/a751ff56-8c6a-4583-a813-c4648b814ecd" />
+
 
 <br><br>
 
@@ -31,12 +32,12 @@
   [![React](https://img.shields.io/badge/react-85B0FF?style=for-the-badge&logo=react&logoColor=white)](#)
   [![Vite](https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](#)
   [![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)](#)
-  [![SCSS](https://img.shields.io/badge/scss-CC6699?style=for-the-badge&logo=Sass&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=scss&sort=)
+  [![SCSS](https://img.shields.io/badge/scss-CC6699?style=for-the-badge&logo=Sass&logoColor=white)](#)
   [![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
   
-  [![HTML5](https://img.shields.io/badge/html-blue?style=for-the-badge&logo=HTML5&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=html&sort=)
-  [![CSS3](https://img.shields.io/badge/css-grey?style=for-the-badge&logo=CSS3&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=css&sort=)
-  [![Kotlin](https://img.shields.io/badge/kotlin-blue?style=for-the-badge&logo=Kotlin&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=kotlin&sort=)
+  [![HTML5](https://img.shields.io/badge/html-blue?style=for-the-badge&logo=HTML5&logoColor=white)](#)
+  [![CSS3](https://img.shields.io/badge/css-grey?style=for-the-badge&logo=CSS3&logoColor=white)](#)
+  [![Kotlin](https://img.shields.io/badge/kotlin-blue?style=for-the-badge&logo=Kotlin&logoColor=white)](#)
   [![Android](https://img.shields.io/badge/android-green?style=for-the-badge&logo=Android&logoColor=white)](#)
   
 
@@ -44,11 +45,11 @@
    <h3> 📚 <samp>Backend & Databases </h3>
 
   
-  [![JavaScript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=js&sort=)
+  [![JavaScript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white)](#)
   [![Spring Boot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](#)
   [![PostgreSQL](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white)](#)
   [![PocketBase](https://img.shields.io/badge/pocketbase-3E7BFA?style=for-the-badge&logo=database&logoColor=white)](#)
-  [![Java](https://img.shields.io/badge/java-red?style=for-the-badge&logo=CoffeeScript&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=java&sort=)
+  [![Java](https://img.shields.io/badge/java-red?style=for-the-badge&logo=CoffeeScript&logoColor=white)](#)
 
   
   <h3> 📚 <samp> Tools & Project Management </h3>
@@ -89,7 +90,9 @@
 
 ### Employer?
 > [!IMPORTANT]  
-> <a href="https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing" download>Download my resume</a>
+> <a href="https://drive.google.com/file/d/1ykTBSULtwuVh06oq6GbFjCvHyY3ooy_m/view?usp=sharing">Download my resume (Spanish)</a>
+
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=85B0FF&height=120&section=footer" alt="footer"/>
 
