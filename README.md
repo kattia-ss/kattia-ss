@@ -1,13 +1,18 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=85B0FF&height=120&section=header" alt="header"/> 
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
-<h2 align="center"><samp>About me</h2>
+
+<div align="center">
+    <h2><samp>About me</samp></h2>
+</div>
+
 
 <br>
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Monospace&weight=500&size=25&duration=4500&pause=500&color=85B0FF&width=435&lines=Hello!+It's+Kattia+Santana;Software+Developer" alt="Software Developer"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Monospace&weight=500&size=25&duration=4500&pause=500&color=85B0FF&width=480&lines=Hi+there!+I'm+Kattia+Santana;Frontend+Developer;Project+Management+Enthusiast" alt="Typing SVG"/>
 </a>
+
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
 💡 <samp>Passionate about technology and problem-solving, I’m a Software Developer focused on building modern, responsive, and scalable web applications.  
 
